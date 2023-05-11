@@ -1,9 +1,9 @@
 Olá!Eu sou Gabriel 😁
 
  <div>
-   <a href="https://github.com/biel-codee">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-codee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-codee&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Gabriel_Felipe">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel_Felipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Felipe&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@ Olá!Eu sou Gabriel 😁
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-fd/overlay/contact-info/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/biel-codee/biel-codee/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gabriel_Felipe/Gabriel_Felipe/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
