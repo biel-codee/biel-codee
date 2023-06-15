@@ -1,4 +1,7 @@
-## Olá!Eu sou Gabriel 😁
+## Olá! Eu sou Gabriel 😁
+Desenvolvedor Júnior | Analista de sistemas
+
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor júnior apaixonado e analista de sistemas com uma base sólida em desenvolvimento e análise de software. Procuro lidar com problemas complexos e encontrar soluções inovadoras por meio da tecnologia.
 
  <div>
    <a href="https://github.com/biel-codee">
