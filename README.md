@@ -3,10 +3,6 @@ Desenvolvedor Júnior | Analista de sistemas 👨‍💻🚀
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor júnior e analista de sistemas com uma base sólida em desenvolvimento e análise de software. Procuro lidar com problemas complexos e encontrar soluções inovadoras por meio da tecnologia.
 
-## Educação 
-
-Tecnólogo em Analise e Desenvomvimento de Sistemas pelo Centro Universitário IESB - 2022
-
  <div>
    <a href="https://github.com/biel-codee">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-codee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
