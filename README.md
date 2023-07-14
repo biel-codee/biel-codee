@@ -26,6 +26,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor web júnior e analista d
  
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-fd/overlay/contact-info/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  
   ![Snake animation](https://github.com/biel-codee/biel-codee/blob/output/github-contribution-grid-snake.svg)
 
