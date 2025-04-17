@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em analise em desenvolvimento de 
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-fd/overlay/contact-info/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  (https://github.com/biel-codee/biel-codee/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/biel-codee/biel-codee/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
