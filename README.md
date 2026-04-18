@@ -1,9 +1,14 @@
-## Olá! Eu sou Gabriel 😁  
-Desenvolvedor Web Júnior | Analista de Sistemas 👨‍💻🚀  
+<h2 align="left">Olá! Eu sou Gabriel 😁</h2>
 
-Bem-vindo ao meu perfil do GitHub!  
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência de Dados.  
+<p>
+Desenvolvedor Web Júnior | Analista de Sistemas 👨‍💻🚀
+</p>
+
+<p>
+Bem-vindo ao meu perfil do GitHub!<br>
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência de Dados.<br>
 Gosto de lidar com problemas complexos e encontrar soluções inovadoras por meio da tecnologia.
+</p>
 
 ---
 
@@ -18,13 +23,13 @@ Gosto de lidar com problemas complexos e encontrar soluções inovadoras por mei
 
 ### 🚀 Tecnologias que utilizo
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<div align="center">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 </div>
 
 ---
