@@ -12,15 +12,6 @@ Gosto de lidar com problemas complexos e encontrar soluções inovadoras por mei
 
 ---
 
-<div align="center">
-  <a href="https://github.com/biel-codee">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-codee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-codee&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 🚀 Tecnologias que utilizo
 
 <div align="center">
